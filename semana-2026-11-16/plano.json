@@ -55,12 +55,13 @@
   {
    "id": "04",
    "quando": "2026-11-17T21:00",
-   "tipo": "reel_manual",
+   "tipo": "reel",
    "video": "reel1.mp4",
    "pt": "O teu cantinho preferido",
    "en": "Your favourite cosy corner",
    "legenda": "O teu cantinho preferido 🧸\nSofá, almofadas e um pijama que parece um abraço. Qual é o teu lugar favorito da casa?\n\n🇬🇧 Your favourite cosy corner. A sofa, cushions and pyjamas that feel like a hug. What's your favourite spot at home?\n\n🌐 cottonsecrets.pt\n\n#CottonSecrets #Pijama #CosyCorner #Algodão #ConfortoEmCasa #MadeInPortugal #PijamasPortugueses #Homewear #InvernoEmCasa #Reels",
-   "estado": "pendente"
+   "estado": "pendente",
+   "url_video": "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-16/reel1.mp4"
   },
   {
    "id": "05",
@@ -116,12 +117,13 @@
   {
    "id": "08",
    "quando": "2026-11-19T21:00",
-   "tipo": "reel_manual",
+   "tipo": "reel",
    "video": "reel2.mp4",
    "pt": "Os melhores serões são partilhados",
    "en": "The best evenings are shared",
    "legenda": "Os melhores serões são partilhados 🧡\nAmigos, sumo fresco, conversas no sofá e pijamas a combinar. Marca quem tens de convidar para o próximo serão!\n\n🇬🇧 The best evenings are shared. Friends, fresh juice, sofa chats and matching pyjamas. Tag who you'd invite to your next cosy night!\n\n🌐 cottonsecrets.pt\n\n#CottonSecrets #PijamaParty #Amigos #Família #ConfortoEmCasa #MadeInPortugal #PijamasPortugueses #Homewear #CosyNights #Reels",
-   "estado": "pendente"
+   "estado": "pendente",
+   "url_video": "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-16/reel2.mp4"
   },
   {
    "id": "09",
@@ -177,12 +179,13 @@
   {
    "id": "12",
    "quando": "2026-11-21T21:00",
-   "tipo": "reel_manual",
+   "tipo": "reel",
    "video": "reel3.mp4",
    "pt": "Bastidores · Coleção Inverno 2026",
    "en": "Behind the scenes · Winter 2026",
    "legenda": "Bastidores da coleção Inverno 2026 🎬\nUm dia de fotografias, muitos sorrisos e uma casa cheia de conforto. Espreita como tudo aconteceu!\n\n🇬🇧 Behind the scenes of our Winter 2026 collection. A day of shooting, lots of smiles and a home full of comfort.\n\n🌐 cottonsecrets.pt\n\n#CottonSecrets #Bastidores #BehindTheScenes #Inverno2026 #PhotoShoot #MadeInPortugal #PijamasPortugueses #Sleepwear #Homewear #Reels",
-   "estado": "pendente"
+   "estado": "pendente",
+   "url_video": "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-16/reel3.mp4"
   },
   {
    "id": "13",
