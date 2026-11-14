@@ -1,0 +1,54 @@
+{
+ "semana": "2026-11-09",
+ "nota": "Só domingo 15/11 (arranque antecipado)",
+ "aprovado": true,
+ "aprovado_em": "2026-11-14",
+ "posts": [
+  {
+   "id": "d1",
+   "quando": "2026-11-15T13:00",
+   "tipo": "carrossel",
+   "fotos": [
+    "DSC05856",
+    "DSC05876"
+   ],
+   "pt": "Juntas, em casa, é melhor",
+   "en": "Better together, at home",
+   "legenda": "Juntas, em casa, é melhor 🤍\nDomingo de mantas, risos e pijamas a combinar. Os melhores momentos são os que partilhamos com quem gostamos.\n\n🇬🇧 Better together, at home. A Sunday of blankets, laughter and matching pyjamas — the best moments are the ones we share.\n\n🌐 cottonsecrets.pt\n\n#CottonSecrets #Domingo #PijamasPortugueses #MadeInPortugal #Amigas #Família #ConfortoEmCasa #Homewear #InvernoEmCasa #CosySunday",
+   "urls": [
+    "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-09/d1_1_DSC05856.jpg",
+    "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-09/d1_2_DSC05876.jpg"
+   ],
+   "estado": "pendente"
+  },
+  {
+   "id": "d2",
+   "quando": "2026-11-15T21:00",
+   "tipo": "carrossel",
+   "fotos": [
+    "DSC05880",
+    "DSC05878",
+    "DSC05879"
+   ],
+   "pt": "Domingo à noite, sem pressa",
+   "en": "Sunday night, no rush",
+   "legenda": "Domingo à noite, sem pressa 🌙\nSofá, chinelos e um conjunto de algodão confortável para fechar o fim de semana em paz. Ele também merece conforto.\n\n🇬🇧 Sunday night, no rush. A sofa, slippers and a comfy cotton set to end the weekend in peace. Comfort is for him too.\n\n🌐 cottonsecrets.pt\n\n#CottonSecrets #PijamaHomem #MensPajamas #Domingo #Algodão #PijamasPortugueses #MadeInPortugal #Homewear #ConfortoEmCasa #SundayMood",
+   "urls": [
+    "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-09/d2_1_DSC05880.jpg",
+    "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-09/d2_2_DSC05878.jpg",
+    "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-09/d2_3_DSC05879.jpg"
+   ],
+   "estado": "pendente"
+  }
+ ],
+ "stories": [
+  {
+   "quando": "2026-11-15T10:00",
+   "foto": "DSC05856",
+   "pt": "Domingo é para estar juntos",
+   "en": "Sundays are for being together",
+   "url": "https://raw.githubusercontent.com/elsamosilva-cpu/cottonsecrets-media/main/semana-2026-11-09/story_2026-11-15.jpg",
+   "estado": "pendente"
+  }
+ ]
+}
