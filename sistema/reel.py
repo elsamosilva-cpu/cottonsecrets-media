@@ -5,6 +5,7 @@ import sys, os, subprocess, tempfile
 sys.path.insert(0, "/home/claude/scripts")
 from tratar import load, faces_box, grade, smart_crop, finish
 from texto import over
+from logo import aplicar as logo_aplicar
 
 out, pt, en, fotos = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4:]
 tmp = tempfile.mkdtemp()
@@ -15,6 +16,7 @@ for i, f in enumerate(fotos):
     p = f"{tmp}/f{i}.jpg"; fr.save(p, quality=93)
     if i == 0:   # gancho de texto no primeiro plano
         over(p, p, pt, en)
+    logo_aplicar(p, p, "reel")
     frames.append(p)
 
 D, X = 2.6, 0.5   # duracao por foto, transicao
