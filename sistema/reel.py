@@ -11,8 +11,11 @@ out, pt, en, fotos = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4:]
 tmp = tempfile.mkdtemp()
 frames = []
 for i, f in enumerate(fotos):
-    im = load(f); box = faces_box(im); g = grade(im)
-    fr = finish(smart_crop(g, 9 / 16, box), (1080, 1920))
+    if f.endswith("_reel.jpg"):   # ja tratada (colecao/ no repositorio): usar tal como esta
+        fr = load(f)
+    else:
+        im = load(f); box = faces_box(im); g = grade(im)
+        fr = finish(smart_crop(g, 9 / 16, box), (1080, 1920))
     p = f"{tmp}/f{i}.jpg"; fr.save(p, quality=93)
     if i == 0:   # gancho de texto no primeiro plano
         over(p, p, pt, en)

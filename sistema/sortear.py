@@ -5,6 +5,8 @@ Estrutura: 7 fotos unicas, 4 carrosseis (4 fotos seguidas da mesma sessao), 2 re
 import json, os, random, sys
 D = os.path.dirname(os.path.abspath(__file__))
 todas = [f"DSC{n}" for n in open(f"{D}/fotos.txt").read().split()]
+# so fotos ja tratadas e guardadas em colecao/ (nao precisa do PC)
+todas = [f for f in todas if os.path.exists(f"{D}/../colecao/{f}_feed.jpg")]
 usadas = set(json.load(open(f"{D}/usadas.json"))) if os.path.exists(f"{D}/usadas.json") else set()
 livres = [f for f in todas if f not in usadas]
 rnd = random.Random(int(sys.argv[1]))
